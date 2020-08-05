@@ -1,0 +1,34 @@
+{
+  "name": "v-dotdotdot",
+  "version": "0.0.1",
+  "description": "vue directive for ellipsis on multiple line content",
+  "config": {
+    "libName": "v-dotdotdot"
+  },
+  "keywords": [
+    "v-dotdotdot",
+    "dotdotdot",
+    "ellipsis",
+    "text-overflow",
+    "truncat",
+    "multiline",
+    "clamp",
+    "vue"
+  ],
+  "author": "litt1e-p",
+  "license": "MIT",
+  "main": "dist/v-dotdotdot.umd.js",
+  "module": "dist/v-dotdotdot.esm.js",
+  "unpkg": "dist/v-dotdotdot.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/litt1e-p/v-dotdotdot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/litt1e-p/v-dotdotdot/issues"
+  },
+  "homepage": "https://github.com/litt1e-p/v-dotdotdot#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
+}
