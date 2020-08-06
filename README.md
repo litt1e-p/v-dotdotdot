@@ -23,8 +23,6 @@ Vue.use(Dotdotdot)
 | line | num of line to keep in clamp | number | 0 (no clamp) |
 | className | custom class name | string | '' |
 | moreType | type of more tag | text \| icon | text |
-| moreText | text of more tag | string | 'show more' (effect with icon moreType only) |
+| moreText | text of more tag | string | 'show more' (effect with text moreType only) |
 | disableAutoDot | auto clamp with dot initially | boolean | false |
-
-
 
