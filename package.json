@@ -1,6 +1,6 @@
 {
   "name": "v-dotdotdot",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "vue directive for ellipsis on multiple line content",
   "config": {
     "libName": "v-dotdotdot"
