@@ -3,4 +3,4 @@
 *
 * Copyright 2020-2022, litt1e-p
 * Released under the MIT license
-*/.dotdotdot__vm{width:100%}.dotdotdot-text-more{color:#999;cursor:pointer;pointer-events:none}.dotdotdot-text-more::hover{text-decoration:underline}.dotdotdot-icon-more{display:inline-block;width:100%;height:1em;text-align:center;line-height:1em;margin-top:.3em;pointer-events:none}.dotdotdot-icon-more:before{position:relative;top:-.4em;content:"";display:inline-block;width:.6em;height:.6em;border-right:.1em solid #ababab;border-top:.1em solid #ababab;transform:rotate(135deg);margin-right:.5em;margin-left:1em}
+*/.dotdotdot__vm{width:100%;opacity:1;transition:all .5s}.dotdotdot__hide{opacity:0}.dotdotdot-text-more{color:#999;cursor:pointer;pointer-events:none}.dotdotdot-text-more::hover{text-decoration:underline}.dotdotdot-icon-more{display:inline-block;width:100%;height:1em;text-align:center;line-height:1em;margin-top:.3em;pointer-events:none}.dotdotdot-icon-more:before{position:relative;top:-.4em;content:"";display:inline-block;width:.6em;height:.6em;border-right:.1em solid #ababab;border-top:.1em solid #ababab;transform:rotate(135deg);margin-right:.5em;margin-left:1em}
