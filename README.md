@@ -2,7 +2,7 @@
 
 vue directive for ellipsis on multiple line content
 
-# Usage
+## Usage
 
 ```js
 // global register in main.js or import inside the component and use as directive
@@ -16,7 +16,7 @@ Vue.use(Dotdotdot)
 // <component v-dotdotdot="{ line: 3, className: 'my-class', moreType: 'icon' }" />
 ```
 
-# Configuration
+## Configuration
 
 | option | description | type | defaut |
 | ---------- |:----------:| ----------:|----------:|
@@ -26,3 +26,9 @@ Vue.use(Dotdotdot)
 | moreText | text of more tag | string | 'show more' (effect with text moreType only) |
 | disableAutoDot | auto clamp with dot initially | boolean | false |
 
+
+## TODO
+
+- <input type="checkbox" disabled checked />  Vue 2.x Support
+- <input type="checkbox" disabled />  performance enhancement
+- <input type="checkbox" disabled />  Vue 3.x Support
