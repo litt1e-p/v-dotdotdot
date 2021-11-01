@@ -29,6 +29,6 @@ Vue.use(Dotdotdot)
 
 ## TODO
 
-- <input type="checkbox" disabled checked />  Vue 2.x Support
-- <input type="checkbox" disabled />  performance enhancement
-- <input type="checkbox" disabled />  Vue 3.x Support
+- [x]  Vue 2.x Support
+- [ ]  performance enhancement
+- [ ]  Vue 3.x Support
